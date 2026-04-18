@@ -14,7 +14,7 @@ The analysis explores the relationship between property features (bedrooms, bath
 
 ## 🛠️ Tech Stack
 * **Language:** Python
-* **Libraries:** * `Pandas` & `NumPy`: Data manipulation and cleaning.
+* **Libraries:**  `Pandas` & `NumPy`: Data manipulation and cleaning.
     * `Matplotlib` & `Seaborn`: Statistical data visualization.
     * `Scikit-Learn`: Feature scaling and categorical encoding.
 
